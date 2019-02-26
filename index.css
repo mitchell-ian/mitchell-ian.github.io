@@ -311,11 +311,10 @@ float: right
 	bottom: 0;
 	width: 193px;
 	height: auto;
-	animation: paperClip 2s;
-	animation-delay: 3s;
+	animation: paperClip 5s;
 	animation-iteration-count: 1;
 	z-index: 200;
-	opacity: 0;
+	opacity: 1;
 }
 
 @keyframes paperClip {
