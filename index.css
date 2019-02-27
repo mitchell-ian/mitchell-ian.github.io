@@ -333,7 +333,9 @@ float: right
 	height: auto;
 }
 
-
+#disqus_thread {
+	background: purple;
+}
 
 .risk {
 	padding: 2em;
